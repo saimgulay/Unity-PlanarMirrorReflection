@@ -197,5 +197,4 @@ Choose a license appropriate to your release strategy:
 
 ## Credits
 
-Developed by: **<Your Name / Studio>**  
-URP Planar Reflection system: secondary camera + oblique clip plane + custom planar shader.
+Developed by: @saimgulay
