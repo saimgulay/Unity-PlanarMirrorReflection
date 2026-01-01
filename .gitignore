@@ -1,0 +1,37 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Oo]verlay/
+.sys/
+.DS_Store
+
+# Rider / VS / IDEs
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity meta (keep!)
+# (Do NOT ignore *.meta)
+
+# Packages lock / cache
+Packages/packages-lock.json
+
+# Crash reports
+crashlytics-build.properties
