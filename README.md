@@ -1,5 +1,7 @@
 # Planar Mirror Surface (URP) — Optimised Planar Reflections
 
+📚 Documentation (Wiki): https://github.com/saimgulay/Unity-PlanarMirrorReflection/wiki
+
 Self-contained planar reflection system for **Unity URP** using a **secondary reflection Camera** + a dedicated **planar reflection shader**.
 
 - Component: `PlanarMirrorSurface` (C#)
