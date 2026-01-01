@@ -191,11 +191,7 @@ This repository/project is organised as:
 
 ## License
 
-Choose a license appropriate to your release strategy:
-- MIT for permissive open-source
-- Asset Store EULA / custom license for paid distribution
-
----
+MIT License. See [LICENSE](LICENSE).
 
 ## Credits
 
