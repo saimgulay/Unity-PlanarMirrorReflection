@@ -13,7 +13,7 @@ Self-contained planar reflection system for **Unity URP** using a **secondary re
 
 ## Preview
 
-![Project Structure](Images/Img1.png)          ![Mirror Example](Images/Img2.png)
+![Project Structure](Images/Img1.png)          ![Mirror Example](Images/Img2.png) ![Img3](Images/Img3.png)
 ![Img3](.)
 
 
